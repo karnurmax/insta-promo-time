@@ -1,1 +1,1 @@
-# user-friendly-insta
+# insta-promo-time
